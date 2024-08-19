@@ -17,12 +17,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
-
----
-
 ### :woman_technologist: About Me :
 I am a third-year B.Tech student in Electronics and Computer Engineering from India, diving into the world of technology and coding. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
@@ -31,6 +25,14 @@ I am a third-year B.Tech student in Electronics and Computer Engineering from In
 - :zap: I enjoy coding on GeeksforGeeks, reading tech articles, and working on projects in my free time.
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-BhumikaBhatt-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bhumikabhatt1312/)
 
+
+## GSSOC(24) Badges 🪶
+<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
+<img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/2.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/3.png" width="100px" height="100px" />
+</div>
 
 
 
